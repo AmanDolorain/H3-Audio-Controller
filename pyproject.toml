@@ -11,3 +11,6 @@ dependencies = []
 [tool.comfy]
 PublisherId = "amandolorain"
 DisplayName = "H3 Audio Controller"
+
+[project.urls]
+Repository = "https://github.com/AmanDolorain/H3-Audio-Controller"
