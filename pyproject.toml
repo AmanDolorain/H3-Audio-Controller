@@ -1,0 +1,13 @@
+[project]
+name = "h3-audio-controller"
+version = "1.0.0"
+description = "Full-file audio upload, playback and waveform selection for native H3 reference audio."
+authors = [{name = "Aman Dolorain"}]
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+readme = "README.md"
+dependencies = []
+
+[tool.comfy]
+PublisherId = "amandolorain"
+DisplayName = "H3 Audio Controller"
